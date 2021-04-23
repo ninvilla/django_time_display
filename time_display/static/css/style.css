@@ -1,0 +1,18 @@
+h1, h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    text-shadow: 1px 1px 10px white;
+}
+h1{
+    margin-top: 300px;
+}
+#bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 15%;
+}
+
+
